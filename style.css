@@ -1,4 +1,4 @@
- /* API CHALLENGE DUE ON THE 25th */
+/* API CHALLENGE DUE ON THE 25th */
 
 html {background-color: wheat;}
 
@@ -36,3 +36,22 @@ html {background-color: wheat;}
     text-align: center;
     vertical-align: center;
 } */
+
+/* .divforbutton {
+
+} */
+
+#button {
+    width: 200px;
+    height: 200px;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 180px;
+    border: 1px red
+}
+
+#factDisplay {
+    color: white;
+    text-align: center;
+    margin: 60px;
+}
